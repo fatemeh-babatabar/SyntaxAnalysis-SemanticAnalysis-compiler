@@ -1,0 +1,10 @@
+num main(){
+    num b;
+    b=a+9;
+}
+
+nil func(){
+    list A;
+    A=1;
+
+}
