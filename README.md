@@ -61,8 +61,13 @@ The bnf structure of the Tslang language :
              list A;
              A=1;
          }
-
-     
+   
+  output:
+  
+         line 3 : identifier  a  is not declared 
+                  main function  should have return value
+         line 8 : illegal assignment!  = 
+         count of errors : 3
   
 
  
