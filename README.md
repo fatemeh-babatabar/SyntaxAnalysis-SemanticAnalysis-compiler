@@ -1,7 +1,7 @@
 # BNF
 
 The bnf structure of the Tslang language :
-     *This grammar is ambiguous
+     notice : This grammar is ambiguous
          
       prog ::=    func | func prog
       func ::=    type iden ( flist ) { body } |
