@@ -48,7 +48,7 @@ The bnf structure of the Tslang language :
       iden ::=    [a-zA-Z_][a-zA-Z_0-9]*
 
       
-  example 
+  example   
       input ( file3.txt) :
       
          num main(){
@@ -60,7 +60,7 @@ The bnf structure of the Tslang language :
              list A;
              A=1;
          }
-         
+
      
   
 
