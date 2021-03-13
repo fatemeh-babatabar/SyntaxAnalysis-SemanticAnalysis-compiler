@@ -1,4 +1,4 @@
-# Syntax-analyser
+# BNF
 
 The bnf structure of the Tslang language :
          
@@ -48,8 +48,9 @@ The bnf structure of the Tslang language :
       iden ::=    [a-zA-Z_][a-zA-Z_0-9]*
 
       
-  # example :
-      input ( file3.txt) :
+  # example 
+  
+  input ( file3.txt) :
       
          num main(){
              num b;
