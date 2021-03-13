@@ -48,3 +48,20 @@ The bnf structure of the Tslang language :
       iden ::=    [a-zA-Z_][a-zA-Z_0-9]*
 
       
+  example 
+      input ( file3.txt) :
+      
+         num main(){
+             num b;
+             b=a+9;
+         }
+         
+         nil func(){
+             list A;
+             A=1;
+         }
+         
+     
+  
+
+ 
